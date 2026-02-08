@@ -2,15 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alisher!;" />
 </h1>
 
-<h3 align="center">A passionate Frontend developer from Kyrgyzstan</h3>
+<h3 align="center">A passionate Middle Frontend developer from Kyrgyzstan</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Booklink**
+ 🔭 I’m currently working on **A2b**
 
-💬 Ask me about **JavaScript, Next and React**
+💬 Ask me about **JavaScript, TypeScript, Next and React**
 
  </div>
 
