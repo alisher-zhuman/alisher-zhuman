@@ -19,12 +19,8 @@
   </a>
 </div>
 
-<br/>
-<hr/>
-<br/>
 
 <h2 align="center">📬 Connect with me</h2>
-<br/>
 
 <div align="center">
   <a href="mailto:zumanovaliser814@gmail.com">
