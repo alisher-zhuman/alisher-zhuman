@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A2b**
+ 🔭 I’m currently working on **A2B**
 
 💬 Ask me about **JavaScript, TypeScript, Next and React**
 
