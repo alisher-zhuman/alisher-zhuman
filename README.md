@@ -60,10 +60,10 @@
   <a href="mailto:zumanovaliser814@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/alisher-jumanov" target="_blank">
+  <a href="https://www.linkedin.com/in/alisher-zhuman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://t.me/minimentor" target="_blank">
+  <a href="https://t.me/alisher_zh" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
   </a>
   <a href="https://wa.me/996551130187" target="_blank">
