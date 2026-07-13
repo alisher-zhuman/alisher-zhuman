@@ -7,7 +7,6 @@
 <br/>
 
 <div align="center">
-  🔭 Currently working on <b>Tunduk</b><br/>
   💼 I’m most active on <b>LinkedIn</b> - projects, updates, and professional journey are there.
 </div>
 
