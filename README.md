@@ -11,16 +11,9 @@
 <br/>
 
 <div align="center">
-  💼 I’m most active on <b>LinkedIn</b> — projects, updates, and professional journey are there.<br/>
+  💼 I’m most active on <a href="https://www.linkedin.com/in/alisher-zhuman" target="_blank"><b>LinkedIn</b></a> — projects, updates, and professional journey are there.<br/>
   ⚽ Check out my <a href="https://alisher-zhuman.vercel.app" target="_blank"><b>Football Portfolio</b></a>.<br/>
   📸 More about my tech & lifestyle journey on <a href="https://www.instagram.com/alisher.zhx/" target="_blank"><b>Instagram</b></a>.
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alisher-zhuman" target="_blank"><img src="https://img.shields.io/badge/Go%20to%20my%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://alisher-zhuman.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Football%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <h2 align="center">📬 Connect with me</h2>
